@@ -4,6 +4,9 @@ return {
     opts = {
       ensure_installed = {
         "gopls",
+        "black",
+        "pyright",
+        "ruff",
       },
     },
   },
